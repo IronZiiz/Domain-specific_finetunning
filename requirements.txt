@@ -1,0 +1,11 @@
+cellpose==4.2.1.1
+albumentations
+scikit-learn
+scikit-image
+scipy
+tifffile
+imagecodecs
+numpy
+pandas
+matplotlib
+tqdm
